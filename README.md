@@ -28,15 +28,23 @@ and spatial statistics for the center-recommendation and gap-analysis models.
 
 | Topic | Open in Colab |
 |-------|---------------|
-| Build across data sources (CSV / SQL / GeoJSON / SHP) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_00_data_sources.ipynb) |
-| A routable road network from OpenStreetMap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_01_osm_road_network.ipynb) |
-| Administrative boundaries, CRS, and the PSGC hierarchy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_02_admin_boundaries.ipynb) |
-| Institutions and coordinate-quality audit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_03_institutions_and_coordinate_audit.ipynb) |
-| Maps of the TESDA institutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_04_visualization.ipynb) |
-| Advanced (optional): Earth Engine, raster to table | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_05_advanced_gee.ipynb) |
+| Data sources (CSV / SQL / GeoJSON / SHP) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_00_data_sources.ipynb) |
+| OSM road network | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_01_osm_road_network.ipynb) |
+| Administrative boundaries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_02_admin_boundaries.ipynb) |
+| Institutions & coordinate-quality audit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_03_institutions_and_coordinate_audit.ipynb) |
+| Point, heat, and density maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_04_visualization.ipynb) |
+| Advanced: Earth Engine, raster to table (optional) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_05_advanced_gee.ipynb) |
 
-More Session 2 material (Day 2 spatial features and statistics, Day 3 team activity) is released
-as the course progresses.
+**Day 2 – Spatial feature engineering & spatial statistics**
+
+| Topic | Open in Colab |
+|-------|---------------|
+| Feature table (clean, analysis-ready) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_00_feature_table.ipynb) |
+| Center recommendation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_01_center_recommendation.ipynb) |
+| Gap analysis (accessibility, 2SFCA, Moran's I) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_02_gap_analysis.ipynb) |
+| Assessor workload | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_03_assessor_workload.ipynb) |
+
+The Day 3 team activity notebooks are released as the course progresses.
 
 ---
 
