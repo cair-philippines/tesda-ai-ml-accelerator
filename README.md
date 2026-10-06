@@ -32,6 +32,7 @@ and spatial statistics for the center-recommendation and gap-analysis models.
 | A routable road network from OpenStreetMap | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_01_osm_road_network.ipynb) |
 | Administrative boundaries, CRS, and the PSGC hierarchy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_02_admin_boundaries.ipynb) |
 | Institutions and coordinate-quality audit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_03_institutions_and_coordinate_audit.ipynb) |
+| Maps of the TESDA institutions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_04_visualization.ipynb) |
 | Advanced (optional): Earth Engine, raster to table | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_05_advanced_gee.ipynb) |
 
 More Session 2 material (Day 2 spatial features and statistics, Day 3 team activity) is released
