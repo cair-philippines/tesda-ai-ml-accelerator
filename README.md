@@ -19,6 +19,8 @@ cells. Open a notebook in Colab with its badge; the first cell installs what it 
 
 **Start here:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/00_Introduction.ipynb) **Introduction** – what the series builds, the datasets, and how the labs work.
 
+**Commands primer:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_commands_primer.ipynb) **Commands primer** – a quick tour of the pandas and geopandas commands used across Day 1 and Day 2.
+
 ### Session 2 – Intermediate Applied Geospatial Analysis
 
 From raw data to an analysis-ready, PSGC-aligned feature table, plus spatial feature engineering
