@@ -36,7 +36,7 @@ and spatial statistics for the center-recommendation and gap-analysis models.
 | Institutions & coordinate-quality audit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_03_institutions_and_coordinate_audit.ipynb) |
 | Point, heat, and density maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_04_visualization.ipynb) |
 | Advanced: Earth Engine, raster to table (optional) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_05_advanced_gee.ipynb) |
-| Linking source files into joinable tables | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_06_linking_datasets.ipynb) |
+| Centers on a Road Network and Program Access | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_06_linking_datasets.ipynb) |
 
 **Day 2 – Spatial feature engineering & spatial statistics**
 
