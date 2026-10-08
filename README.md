@@ -30,19 +30,19 @@ and spatial statistics for the center-recommendation and gap-analysis models.
 
 | Topic | Open in Colab |
 |-------|---------------|
-| Data sources (CSV / SQL / GeoJSON / SHP) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_00_data_sources.ipynb) |
-| OSM road network | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_01_osm_road_network.ipynb) |
-| Administrative boundaries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_02_admin_boundaries.ipynb) |
-| Institutions & coordinate-quality audit | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_03_institutions_and_coordinate_audit.ipynb) |
-| Point, heat, and density maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_04_visualization.ipynb) |
-| Advanced: Earth Engine, raster to table (optional) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_05_advanced_gee.ipynb) |
+| Data Sources (CSV, SQL, GeoJSON, SHP) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_00_data_sources.ipynb) |
+| OSM Road Network | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_01_osm_road_network.ipynb) |
+| Administrative Boundaries | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_02_admin_boundaries.ipynb) |
+| Institutions and Coordinate Checks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_03_institutions_and_coordinate_audit.ipynb) |
+| Point, Heat, and Density Maps | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_04_visualization.ipynb) |
+| Advanced: Earth Engine, Raster to Table (Optional) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_05_advanced_gee.ipynb) |
 | Centers on a Road Network and Program Access | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D1_06_linking_datasets.ipynb) |
 
 **Day 2 – Spatial feature engineering & spatial statistics**
 
 | Topic | Open in Colab |
 |-------|---------------|
-| Feature table (clean, analysis-ready) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_00_feature_table.ipynb) |
+| Feature Table (One Row per Center) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_00_feature_table.ipynb) |
 | Center recommendation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_01_center_recommendation.ipynb) |
 | Gap analysis (accessibility, 2SFCA, Moran's I) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_02_gap_analysis.ipynb) |
 | Assessor workload | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_03_assessor_workload.ipynb) |
