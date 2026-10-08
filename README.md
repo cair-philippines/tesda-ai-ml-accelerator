@@ -43,9 +43,9 @@ and spatial statistics for the center-recommendation and gap-analysis models.
 | Topic | Open in Colab |
 |-------|---------------|
 | Feature Table (One Row per Center) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_00_feature_table.ipynb) |
-| Center recommendation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_01_center_recommendation.ipynb) |
-| Gap analysis (accessibility, 2SFCA, Moran's I) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_02_gap_analysis.ipynb) |
-| Assessor workload | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_03_assessor_workload.ipynb) |
+| Center Recommendation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_01_center_recommendation.ipynb) |
+| Gap Analysis (Accessibility, 2SFCA, Moran's I) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_02_gap_analysis.ipynb) |
+| Assessor Workload | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cair-philippines/tesda-ai-ml-accelerator/blob/main/notebooks/S2_D2_03_assessor_workload.ipynb) |
 
 The Day 3 team activity notebooks are released as the course progresses.
 
